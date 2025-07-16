@@ -1,0 +1,120 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+# Explicitly exclude unsloth cache
+unsloth_compiled_cache/
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+profile_default/
+ipython_config.py
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+
+# PyCharm
+.idea/
+*.iml
+*.iws
+.idea_modules/
+
+# VS Code
+.vscode/
+*.code-workspace
+.history/
+
+# Environment & sensitive files
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+*.env
+*credentials*.json
+*api_key*
+*token*
+*secret*
+voice-samples-f2816-firebase-adminsdk-fbsvc-3a7a6eefc9.json
+
+# Model weights & large files (>100MB)
+*.bin
+*.pt
+*.pth
+*.safetensors
+*.gguf
+*.onnx
+lunaris_finetuned/runs/
+
+# Large datasets
+Star_fail_guinaifen.xlsx
+large_dataset_*.json
+large_dataset_*.txt
+full_scraped_*.txt
+
+# Temporary and intermediate files
+*.tmp
+*.bak
+*.swp
+*.log
+try.txt
+output.txt
+temp/
+logs/
+output_logs/
+
+# Specific large files that should be excluded
+all_conversations.json
+final_cleaned_scraped_dialogue_and_descriptions.txt
+miniconda.sh
+
+# Exclude experimental/scratch folders that may contain sensitive data
+random_shananigans might need later/

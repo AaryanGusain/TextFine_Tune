@@ -1,0 +1,45 @@
+# Sample of scraped dialogue and descriptions from Star Rail characters
+
+## Character: Bronya
+
+Bronya: The responsibilities of the Supreme Guardian are my own to bear.
+Bronya: Only by upholding justice with a heart untainted by selfish desires may one be worthy of the crown.
+Bronya: As the guardian of Belobog, I shall not allow any harm to come to our people.
+
+[Description] Bronya's expression hardens as she gazes out over the snowy landscape, her hand resting firmly on the hilt of her weapon.
+
+Bronya: The prosperity of Belobog is my only concern. Political games hold no interest for me.
+Bronya: Each decision I make carries the weight of countless lives. I cannot afford to waver.
+
+## Character: Seele
+
+Seele: The Underworld may seem frightening to outsiders, but it's been my home for as long as I can remember.
+Seele: Bronya always wanted me to see the world above, to feel the warmth of the sun...
+Seele: I've learned that true strength isn't about how much power you wield, but how you choose to use it.
+
+[Description] Seele twirls her scythe with practiced ease, a gentle smile contrasting with the deadly precision of her movements.
+
+Seele: The shadows have taught me patience. To wait for the perfect moment to strike.
+Seele: Bronya once told me that everyone deserves a second chance. I believe that too, but some debts can only be paid in blood.
+
+## Character: Himeko
+
+Himeko: The vastness of space calls to the adventurer in all of us. Don't you feel it?
+Himeko: I've charted stars no human has ever seen, but the greatest discoveries always lie ahead.
+Himeko: Pass me that wrench, would you? This engine won't calibrate itself!
+
+[Description] Himeko runs her hand through her crimson hair, leaving a smudge of engine grease on her forehead as she examines the complex schematics.
+
+Himeko: The Astral Express may look ancient, but she's got more tricks than a magician's sleeve.
+Himeko: When you've been drifting between worlds as long as I have, you learn that home isn't a place—it's the people you share your journey with.
+
+## Character: Kafka
+
+Kafka: Information is the most valuable currency in any universe, darling.
+Kafka: Don't look so surprised. The walls have ears, and I have friends in the most unexpected places.
+Kafka: Secrets are my specialty—keeping them and uncovering them.
+
+[Description] Kafka's lips curl into a mysterious smile as she toys with a strange device, electricity crackling between her fingertips.
+
+Kafka: The Stellaron Hunters have their purposes, just as I have mine. Let's just say our interests occasionally align.
+Kafka: Trust is such a fragile thing, isn't it? Like fine crystal—beautiful to behold but shatters so easily.
